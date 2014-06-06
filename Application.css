@@ -1,0 +1,10 @@
+html{
+  background-image: url("images/SpiralNotebook.jpg");
+  background-size: auto;
+  background-repeat:no-repeat;
+}
+#apply{
+	position: fixed;
+	top:10%;
+	left: 10%;
+}
